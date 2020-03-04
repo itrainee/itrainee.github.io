@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://itrainee.github.io/"/>
-  <updated>2020-03-02T16:38:18.833Z</updated>
+  <updated>2020-03-04T18:01:13.185Z</updated>
   <id>https://itrainee.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://itrainee.github.io/2020/03/03/%E3%80%8A%E4%BA%BA%E6%80%A7%E7%9A%84%E5%BC%B1%E7%82%B9%E3%80%8B%E8%AF%BB%E5%90%8E%E6%84%9F%EF%BC%88-%EF%BC%89/"/>
     <id>https://itrainee.github.io/2020/03/03/《人性的弱点》读后感（-）/</id>
     <published>2020-03-02T16:01:29.000Z</published>
-    <updated>2020-03-02T16:38:18.833Z</updated>
+    <updated>2020-03-04T18:01:13.185Z</updated>
     
     <content type="html"><![CDATA[<hr><h2 id="卡耐基简介"><a href="#卡耐基简介" class="headerlink" title="卡耐基简介"></a>卡耐基简介</h2><p><a href="https://baike.baidu.com/item/%E6%88%B4%E5%B0%94%C2%B7%E5%8D%A1%E8%80%90%E5%9F%BA/6896000?fromtitle=%E5%8D%A1%E8%80%90%E5%9F%BA&amp;fromid=973060&amp;fr=aladdin" target="_blank" rel="noopener">卡耐基先生</a></p><p><img src="https://github.com/itrainee/blogimgs/blob/master/kanaiji.jpg?raw=true" alt=""></p><h2 id="读书计划"><a href="#读书计划" class="headerlink" title="读书计划"></a>读书计划</h2><h3 id="1-从今天开始开始读《人性的弱点》-每周更新一次"><a href="#1-从今天开始开始读《人性的弱点》-每周更新一次" class="headerlink" title="1.从今天开始开始读《人性的弱点》 每周更新一次"></a>1.从今天开始开始读《人性的弱点》 每周更新一次</h3><h3 id="2-读书，是为了强大自己的内心"><a href="#2-读书，是为了强大自己的内心" class="headerlink" title="2.读书，是为了强大自己的内心"></a>2.读书，是为了强大自己的内心</h3>]]></content>
     
@@ -51,7 +51,7 @@
     <link href="https://itrainee.github.io/2018/05/25/%E6%88%91%E6%89%80%E4%BA%86%E8%A7%A3%E7%9A%84%E7%8E%8B%E5%9E%A0/"/>
     <id>https://itrainee.github.io/2018/05/25/我所了解的王垠/</id>
     <published>2018-05-25T15:47:44.000Z</published>
-    <updated>2018-05-25T16:44:51.394Z</updated>
+    <updated>2020-03-04T18:01:25.865Z</updated>
     
     <content type="html"><![CDATA[<p><a href="https://baike.baidu.com/item/%E7%8E%8B%E5%9E%A0" target="_blank" rel="noopener">王垠百度简介</a></p>]]></content>
     
@@ -75,7 +75,7 @@
     <link href="https://itrainee.github.io/2018/05/25/%E6%88%91%E6%89%80%E7%86%9F%E6%82%89%E7%9A%84C++%E8%AF%AD%E8%A8%80/"/>
     <id>https://itrainee.github.io/2018/05/25/我所熟悉的C++语言/</id>
     <published>2018-05-25T15:47:44.000Z</published>
-    <updated>2020-03-02T15:52:52.609Z</updated>
+    <updated>2020-03-04T18:01:38.017Z</updated>
     
     <content type="html"><![CDATA[<hr><p><img src="https://github.com/itrainee/blogimgs/blob/master/cpp.jpg?raw=true" alt=""></p><h2 id="学习经历"><a href="#学习经历" class="headerlink" title="学习经历"></a>学习经历</h2><h3 id="苦逼的大学经历"><a href="#苦逼的大学经历" class="headerlink" title="苦逼的大学经历"></a>苦逼的大学经历</h3><p>在大学期间，C++已经是家喻户晓了，不知学校出于什么原因考虑，大一第一学期就开了C++这门课，对于很多从农村来的孩子，上大学之前连office都没有用过或者很少用，直接就开始学习这门所谓博大精深的语言，是面临着多大的压力，还依稀的记得第一次试验课，不会安装vc6.0，苦不堪言。还好我们宿舍舍友的共同努力下，学会了安装VC6.0。因此，记得第一次使用MFC开发课程设计，使用的语言就是C++。</p><h3 id="阅读"><a href="#阅读" class="headerlink" title="阅读"></a>阅读</h3><p>在学习c++语言过程中，经历初级，中级，高级阶段，初次阅读了《C++ primer》第四版、《Effective C++》、《More Effective C++》、侯捷写的《STL源码剖析》、《C++语言的设计和演化》、《C++并发实践》、《Exceptinal C++》等<br>在这些书中，C++之父<a href="https://baike.baidu.com/item/%E6%9C%AC%E8%B4%BE%E5%B0%BC%C2%B7%E6%96%AF%E7%89%B9%E5%8A%B3%E6%96%AF%E7%89%B9%E5%8D%A2%E6%99%AE" target="_blank" rel="noopener">本贾尼·斯特劳斯特卢普</a>的《<a href="https://book.douban.com/subject/1096216/" target="_blank" rel="noopener">C++语言的设计和演化</a>》这本书，对于语言的设计细节和演变，C++以及语言设计的原则和目标，为什么会设计成这个样子？然而学习C++的成本很高，但是一旦学成就会如武侠里面的武林高手，此时无招胜有招，可以参看陈皓写的文章《<a href="https://coolshell.cn/articles/4119.html" target="_blank" rel="noopener">如何学好C++语言</a>》就是很好的例子，C++就像一束星光划过夜空，瞬间释放的光芒让人神往，或者是醍醐灌顶啊。</p><p><img src="https://github.com/itrainee/blogimgs/blob/master/star.jpg?raw=true" alt=""></p><h3 id="阅读开源C-库"><a href="#阅读开源C-库" class="headerlink" title="阅读开源C++库"></a>阅读开源C++库</h3><p>起初，只是阅读几千行的C++代码，包括许多人用C++写的服务器框架，UI框架，有些甚至在开源的代码中使用了C++新特性，对于理解C++的语言有深入的见解，随后并不满足于小的项目了，进而去阅读<a href="https://www.boost.org/" target="_blank" rel="noopener">boost</a>源码，进而对于C++的认识又有了信得领悟。</p><h2 id="实战"><a href="#实战" class="headerlink" title="实战"></a>实战</h2><h3 id="掌握语言的特性"><a href="#掌握语言的特性" class="headerlink" title="掌握语言的特性"></a>掌握语言的特性</h3><p>众所周知，计算机是一门艺术，更是一门需要长期实践的学科，那么在学习了编程语言之后，大量的实践是不可少的，然而并不是以代码量来衡量，而是对于语言足够的认识，他能干什么，不能干什么，什么地方它干的好，什么地方有坑，总之就是要掌握语言的特性，王垠的<a href="http://www.yinwang.org/blog-cn/2017/07/06/master-pl" target="_blank" rel="noopener">《如何掌握所有的程序语言》</a>，一针见血的表明如何掌握一门语言的普遍思想，这种思想不断地在实践中影响着我。</p><h3 id="C-的坑"><a href="#C-的坑" class="headerlink" title="C++的坑"></a>C++的坑</h3><ol><li>继承中对象资源释放</li><li>不正确的使用STL产生的内存碎片和内存泄露。</li><li>多线程下资源释放存在的资源泄露问题。需要借助智能指针shard_ptr。</li><li>……</li></ol><h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><h3 id="不完美的C"><a href="#不完美的C" class="headerlink" title="不完美的C++"></a>不完美的C++</h3><p>这个世界是不完美的，让一个人当爹、又当妈是痛苦的，C++就是这样的处境，他既要兼容C、又要面向对象，忽然想起了谁说的一句话，想当婊子还想立牌坊，C++就是这样一门语言，C++语言过于复杂，导致很多人敬而远之，但是不没有妨碍他的发展和成熟。C++是一门为编程人员的设计而设计语言，就像C++之父所说，他要给程序员自由。它只提供一种范式。</p><h3 id="美味的C"><a href="#美味的C" class="headerlink" title="美味的C++"></a>美味的C++</h3><p>C++能够提高程序员对于程序设计的认识，当然设计能力对于一个程序员是至关重要的，因为程序设计是一门失传已久的艺术。</p>]]></content>
     
